@@ -3,7 +3,7 @@
 ### 💻 About Me
 
 - 🤔 Exploring new technologies.
-- 🎓 NodeJS developer.
+- 🎓 Web developer.
 
 I studied at Najot Ta'lim.<br/>
 I am learning web development.
