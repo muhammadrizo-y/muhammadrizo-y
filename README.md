@@ -9,7 +9,6 @@ I studied at Najot Ta'lim.<br/>
 I am learning web development.
 
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
-- 🌱 I’m currently learning NodeJS.
 - 💬 Ask me about NodeJS and Web Development.
 - ⚡ Fun fact: I use Linux🐧💖.
 
