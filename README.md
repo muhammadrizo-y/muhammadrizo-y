@@ -12,9 +12,10 @@ I am learning web development.
 - 💬 Ask me about NodeJS and Web Development.
 - ⚡ Fun fact: I use Linux🐧💖.
 
-#### Check out my new Raycast extension:
+#### Check out my Raycast extensions:
 
 <a title="Install knowyourmeme Raycast Extension" href="https://www.raycast.com/muhammadrizo/knowyourmeme"><img src="https://www.raycast.com/muhammadrizo/knowyourmeme/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+<a title="Install windows-default-wallpapers Raycast Extension" href="https://www.raycast.com/muhammadrizo/windows-default-wallpapers"><img src="https://www.raycast.com/muhammadrizo/windows-default-wallpapers/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 
 <br>
 
