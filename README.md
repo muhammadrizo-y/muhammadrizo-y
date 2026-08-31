@@ -17,6 +17,7 @@ I am learning web development.
 <a title="Install knowyourmeme Raycast Extension" href="https://www.raycast.com/muhammadrizo/knowyourmeme"><img src="https://www.raycast.com/muhammadrizo/knowyourmeme/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 <a title="Install windows-default-wallpapers Raycast Extension" href="https://www.raycast.com/muhammadrizo/windows-default-wallpapers"><img src="https://www.raycast.com/muhammadrizo/windows-default-wallpapers/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/muhammadrizo/series-rating-graphs" title="Install series-rating-graphs Raycast Extension"><img src="https://www.raycast.com/muhammadrizo/series-rating-graphs/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt="" /></a>
+<a href="https://www.raycast.com/muhammadrizo/flameshot" title="Install flameshot Raycast Extension"><img src="https://www.raycast.com/muhammadrizo/flameshot/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt="" /></a>
 
 <br>
 
