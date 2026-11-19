@@ -10,7 +10,7 @@ I am learning web development.
 
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
 - 💬 Ask me about NodeJS and Web Development.
-- ⚡ Fun fact: I use Linux🐧💖.
+- ⚡ Fun fact: I use Raycast 🚀.
 
 #### Check out my Raycast extensions:
 
